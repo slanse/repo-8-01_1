@@ -1,1 +1,1 @@
-echo $(($(id -u)*2-1))\ main
+echo $(($(id -u)*2-1))\ conflict
